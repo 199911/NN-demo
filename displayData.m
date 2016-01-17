@@ -53,7 +53,7 @@ h = imagesc(flipud(display_array), [-1 1]);
 
 % Do not show axis
 axis image off
-
 drawnow;
+figure
 
 end
